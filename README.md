@@ -1,8 +1,8 @@
-# Advance ToDo List
-### Features 
-add, swap, delete and SAVE toDos on your local browser!
-Saddly, this version implements JQuery.</br>
-Version 2 will be less buggy with pure Vanilla JS</br>
-
-### Screen Shot:
+# Advance To-Do List
+### Add, Swap, Delete, Update and Save To-Dos on the client-side
+#### Technologies
+JavaScript, jQuery, SASS, HTML, cookies, localstorage.
+##### Version 2
+Will be more responisve using pure Vanilla JS
+#### Screen Shot:
 ![Screenshot](screenshot.png)
